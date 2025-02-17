@@ -14,3 +14,4 @@ LAMPASSS
 outghoul
 hvhterract
 xav2ersobas3d
+hvhstars
